@@ -10,3 +10,7 @@ Furthermore, it has been my first game jam and my first game using Unity. Due to
 <h3>Commands</h3>
 Input: Mouse(LeftClick) --> Going to the left / Mouse(RightClick) --> Going to the right. </br>     
 Exit the game: ALT + F4.
+
+<h3>Branches</h3>
+master --> build. </br>
+dev --> source code for the Unity editor.
