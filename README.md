@@ -1,7 +1,7 @@
 <h1>Rumbling 20's</h1>
 
 ![](Images/Title.png) </br>
-Rumbling 20's is a game projected with C# and Unity during the Global Game Jam 2020. </br>
+[Rumbling 20's](https://globalgamejam.org/2020/games/rumbling-20s-9) is a game projected with C# and Unity during the Global Game Jam 2020. </br>
 <b>What's the Global Game Jam?</b> The GJJ is a hackathon where you have to create a game in less than 3 days with a main topic given when the game jam starts. If you wanna know more about it, click [here](https://globalgamejam.org/about). </br>
 The team was composed by 6 members: 3 software developers, 2 game designers, 1 2D/3D artist. </br>
 The game has been thought to be played on Ipad, so the screen is vertical. </br>
